@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eapp</string>
+    <string name="titulo">Encuesta Covid 19</string>
+    <string name="doct">Digite el Documento de Identidad</string>
+    <string name="rm">Masculino</string>
+    <string name="rf">Femenino</string>
+    <string name="nt">Digite los Nombres</string>
+    <string name="pt">Digite los Apellidos</string>
+    <string name="dt">Digite la Dirección</string>
+    <string name="dp">Datos Personales</string>
+    <string name="botont">Guardar</string>
+    <string name="pregunta1">Tienes Malestar de Fiebre y Dolor de Garganta?</string>
+    <string name="pregunta2">Usted ha Tenido contacto con alguien o Familiar
+                    con covid 19</string>
+    <string name="pregunta3">Usted tiene comorbilidades?</string>
+    <string name="tencuesta">Titulo de Encuesta</string>
+</resources>
